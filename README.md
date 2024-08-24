@@ -21,8 +21,8 @@ This is a simple Electron-based application that runs Duolingo as a standalone w
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/duolingo-webview.git
-   cd duolingo-webview
+   git clone https://github.com/MateusCantanhede/DuolingoForLinux.git
+   cd DuolingoForLinux
 2. **install Dependencies**
 
    ```bash
