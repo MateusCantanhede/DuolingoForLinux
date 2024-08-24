@@ -1,2 +1,9 @@
 /release-build/
+/dpkg/debian/
 /node_modules/
+*.deb
+*.ddeb
+*.dsc
+*.tar.gz
+*.buildinfo
+*.changes

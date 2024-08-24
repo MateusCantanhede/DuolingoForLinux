@@ -34,5 +34,6 @@ This is a simple Electron-based application that runs Duolingo as a standalone w
 4. **Run the Installation Script**
 
    ```bash
-   ./install_duolingo.sh
+   cd /release-build/duolingo-webview-linux-x64
+   ./duolingo-webview
 
